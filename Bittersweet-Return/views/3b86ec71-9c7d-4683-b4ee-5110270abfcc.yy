@@ -1,0 +1,31 @@
+{
+    "id": "3b86ec71-9c7d-4683-b4ee-5110270abfcc",
+    "modelName": "GMFolder",
+    "mvc": "1.1",
+    "name": "3b86ec71-9c7d-4683-b4ee-5110270abfcc",
+    "children": [
+        "75574a3d-bcdb-49d0-aaaa-4466745cd463",
+        "7087ec3b-96c1-4b8b-a32b-119e9910edea",
+        "dea7a06f-b53c-4358-a748-bc2513546267",
+        "534cd437-b4af-4601-9c41-982c6053bd31",
+        "8a930834-f096-4a55-b4ec-86ddc1754e98",
+        "c810d545-4462-4b2f-ae21-6f02cbcb6566",
+        "081c5717-c3bb-4356-acf5-8bd99b03d6d4",
+        "46dcabde-0231-46a9-b584-6df3f694c346",
+        "2d4ca0d2-c538-4db5-babf-3613ad789936",
+        "2b556889-08f7-4604-a955-0b3ec0592287",
+        "de307175-67fb-46e1-970f-9e24c46b2487",
+        "93d94b5f-667e-432d-a592-170ef0cf3602",
+        "a569bf3e-c1d4-49f4-b429-cb84cc993574",
+        "2846569b-f278-4d7b-ab62-6e3fb3daa37e",
+        "ca8d555c-fa2e-461d-81ed-976f885f4a42",
+        "d4ea6299-fe97-46d4-85a9-8117fe8bc48a",
+        "02afab60-92cb-4067-85f9-14929e9c78f9",
+        "c60a49d1-7454-431a-99f7-f78126d6706a",
+        "fa88e15f-7a91-450c-8d19-a25bb82ff575"
+    ],
+    "filterType": "GMObject",
+    "folderName": "wall_house",
+    "isDefaultView": false,
+    "localisedFolderName": ""
+}

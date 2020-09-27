@@ -1,0 +1,32 @@
+{
+    "id": "383c2180-ea3f-433e-884b-dbed3f263001",
+    "modelName": "GMFolder",
+    "mvc": "1.1",
+    "name": "383c2180-ea3f-433e-884b-dbed3f263001",
+    "children": [
+        "7cf3bb43-aabc-473a-b659-2fa59b9dbded",
+        "6acd1d2f-1a9c-4764-845c-0618c04ca21d",
+        "7db17194-9fd8-45d3-9e3a-19fbfa01c285",
+        "e5af2cf4-4055-4fc8-90c8-e1ff96a2cd61",
+        "9cc012c5-2590-4c67-9f6a-9a659b8c0e93",
+        "878bbbe3-0fbe-430c-a02f-7005c2847995",
+        "4428f93d-16f2-4734-9d68-049fcb48df06",
+        "ca2e5841-b5e0-4838-b010-9d86f44b64d9",
+        "76008a42-8882-4e59-ac03-405b69ed55e4",
+        "bb64819f-0b12-4fba-9da8-fb34aacd947e",
+        "fe1f8649-5af5-44fa-bb0f-7c9fa9b6112b",
+        "ffa34801-e39c-467f-8aae-10eaf2850e57",
+        "e8188fc7-b220-404d-9316-92fa99e72daf",
+        "e20ec0af-311a-457b-b3d3-5679ea0e8982",
+        "940b006d-44bb-4104-93c9-d5b4677e579a",
+        "d0737bb8-2131-443d-b4b9-cab520eeeb8c",
+        "f3b76172-a164-4de6-85d8-a3c2107f8a06",
+        "4188a2e3-d4df-4fd1-9397-c852056c0168",
+        "ad9b190a-22fc-4dfd-bdeb-0c50b6c9fc19",
+        "f599a68c-0a52-41f3-9f5f-e8ed09b409c4"
+    ],
+    "filterType": "GMSprite",
+    "folderName": "furniture",
+    "isDefaultView": false,
+    "localisedFolderName": ""
+}
